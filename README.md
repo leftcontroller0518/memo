@@ -1,1 +1,7 @@
-[![YouTube動画](https://youtube.com)](https://www.youtube.com/watch?v=VNH1D459lK0)
+やりたいこと
+- LaTeX数式でイージング記述（実用性なし）
+- 軽量データモッシュ
+- ガチのliquidglass
+- GG分解完成
+- レイヤーを階層としたpsd出力
+- レイヤーごとのPNG出力
